@@ -27,6 +27,7 @@ CodeHolic - https://www.youtube.com/watch?v=qJq9ZMB2Was&t=9484s
 - $git clone
 - $composer install
 - $npm install
+- $create .env file
 - $php artisan key:generate
 - $php artisan serve
 - $cd frontend && npm run dev
