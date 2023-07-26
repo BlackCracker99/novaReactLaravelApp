@@ -20,7 +20,7 @@ frontend with react and backend is laravel used for this project.this is most su
 - Laravel
 - React 
 - React Router
-- React Contect API
+- React Context API
 - Axios
 
 ## About Source
